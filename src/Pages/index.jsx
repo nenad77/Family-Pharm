@@ -1,14 +1,12 @@
 import React from 'react';
-import Nav from '../Components/Nav/Nav';
-import Hero from '../Components/Hero/Hero';
+import Home from '../Components/Home/Home';
 
 
 
 const IndexPage = () => {
     return (
         <div className="App">
-         <Nav /> 
-         <Hero />  
+          <Home />
         </div>
     )
 }
