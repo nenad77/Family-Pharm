@@ -1,5 +1,5 @@
 import React from 'react';
-import pill from '../../Img/pill.svg';
+import pill from '../../Img/pill.png';
 import './Home.scss';
 
 
